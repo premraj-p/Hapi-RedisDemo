@@ -1,0 +1,23 @@
+[
+ {
+  "name": "a",
+  "id": "1",
+  "branch": "comp",
+  "address": "pune",
+  "contact": "12345"
+ },
+ {
+  "name": "b",
+  "id": "2",
+  "branch": "entc",
+  "address": "mumbai",
+  "contact": "67891"
+ },
+ {
+  "name": "c",
+  "id": "3",
+  "branch": "it",
+  "address": "delhi",
+  "contact": "13579"
+ }
+]
